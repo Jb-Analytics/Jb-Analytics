@@ -12,7 +12,7 @@
 Passionate about learning, understanding, and <b>building modern analytics solutions.</b>
 
 - 🎯 I’m currently working on [jbanalytics.fr](https://jbanalytics.fr)
-- 🌱 I’m currently learning <b> advanced SQL, Google Could Platform, dbt and python </b> to transition into Analytics Engineering.
+- 🌱 I’m currently learning <b> advanced SQL, Google Cloud Platform, dbt and python </b> to transition into Analytics Engineering.
 - 🌐 I speak French and English. I understand Spanish and German.
 
 
