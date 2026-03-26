@@ -1,4 +1,4 @@
-## Hi there, I'm Célia JEAN-BART 👋
+<h2> Hi there, I'm Célia JEAN-BART 👋</h2>
 
 ![Excel](https://img.shields.io/badge/Excel-Expert-217346?logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue)
@@ -7,22 +7,80 @@
 ![Google Cloud](https://img.shields.io/badge/GCP-Basics-4285F4?logo=googlecloud&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-Basics-FF694B?logo=dbt&logoColor=white)
 
-<h3> 📊 Data Analyst → Analytics Engineer </h3>
+<h3> 📊 Aspiring Analytics / Data Engineer | From Data Analyst to Modern Data Pipelines </h3>
 
-Passionate about learning, understanding, and <b>building modern analytics solutions.</b>
+I transform raw data into insights, automate workflows, and build analytics solutions that drive business decisions.
 
-- 🎯 I’m currently working on [jbanalytics.fr](https://jbanalytics.fr)
-- 🌱 I’m currently learning <b> advanced SQL, Google Cloud Platform, dbt and python </b> to transition into Analytics Engineering.
-- 🌐 I speak French and English. I understand Spanish and German.
+---
 
+<h2> 🔵 What I do  </h2>
 
-<h2> 💻 Programming languages and Tools:</h2>
+When you work with me:
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="55" alt="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" width="50" alt="Excel"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" alt="Power BI"/>
-</p>
+1. We define business objectives and data needs together
+2. I collect, clean, and transform data using SQL, Python, and ETL best practices
+3. I design scalable data pipelines with dbt and modern analytics tools
+4. I build dashboards and reports with Power BI and Excel to support decision-making
+5. I automate workflows to save time and reduce errors
+6. I optimize queries, transformations, and models for efficiency
+7. I communicate insights in a clear and actionable way
+
+---
+
+<h2>👨‍💻 Projects and practice:</h2>
+
+💡 **Analytics Engineering & Modern Data Stack**
+
+- [dbt Fundamentals — Jaffle Shop](https://github.com/Jb-Analytics/jaffle-shop-dbt) (In progress)  
+  Full transformation pipeline: staging raw data → analytics-ready models.  
+  **Tech:** dbt, Data Modeling, Automated Testing (Schema & Data tests), Version Control  
+
+- [Major League Baseball (MLB) Advanced Analysis](https://github.com/Jb-Analytics/Major-League-Baseball-analysis)  
+  Complex performance analytics using advanced SQL.  
+  **Tech:** Window Functions, CTEs, Joins Optimization, Statistical Analysis  
+
+<h2> </h2>
+
+💡 **Business Intelligence & Strategy**
+
+- [AdventureWorks BI: End-to-End BI Solution](https://github.com/Jb-Analytics/AdventureWorks_BI)  
+  Full BI ecosystem: raw CSVs → executive dashboards & KPIs.  
+  **Tech:** Power BI, Power Query (ETL), DAX Modeling, UI/UX Design  
+
+- [Maven Market BI: Global Grocery Analytics](https://github.com/Jb-Analytics/Maven-Market_BI)  
+  Multi-region sales tracking & customer behavior modeling.  
+  **Tech:** Relational Data Modeling, Time Intelligence (DAX)  
+
+<h2> </h2>
+
+💡 **Advanced Business Modeling (Excel Expert)**
+
+- [Coffee Shop Sales Analysis](https://github.com/Jb-Analytics/coffee-shop-sales-analysis)  
+  Revenue optimization & sales trends analysis  
+
+- [Global Electronics Retailer Analysis](https://github.com/Jb-Analytics/global-electronics-retailer-analysis)  
+  Profitability analysis & inventory optimization  
+
+- [HR Survey Analysis](https://github.com/Jb-Analytics/HR-survey-analysis)  
+  Employee feedback analysis for actionable insights  
+
+- [US Labor Market Interactive Explorer](https://github.com/Jb-Analytics/US-labor-analysis)  
+  Public records → dynamic decision-making tool  
+
+- [Maven Toys: Regional Revenue & Performance Tracker](https://github.com/Jb-Analytics/toy-store-chain-revenue-analysis)  
+  Multi-store revenue & KPI tracking  
+
+*(More projects coming soon 🚧)*
+
+---
+
+<h2> 🔵 Technical toolkit </h2>
+
+- **Tech languages**: SQL (PostgreSQL, MySQL), Python (Pandas) (In progress).
+- **Tools:** dbt (In Progress), Git/GitHub, GCP, Power BI, Excel (Power Pivot/DAX).
+- **Languages**: French (Native), English (Fluent), Spanish & German (Intermediate).
+
+---
 
 <h2> 📚 Certifications:</h2>
 
@@ -37,24 +95,11 @@ Passionate about learning, understanding, and <b>building modern analytics solut
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92579131" width="70" alt="Maven Analytics Data Analysis"/></a>
 </p>
 
-<h2>👨‍💻 Projects and practice:</h2>
-
-- <b>Excel Projects</b>
-  - [Coffee Shop Sales Analysis](https://github.com/Jb-Analytics/coffee-shop-sales-analysis)
-  - [Global Electronics Retail Analysis](https://github.com/Jb-Analytics/global-electronics-retailer-analysis)
-- <b>SQL Projects</b>
-  - [Major League Baseball (MLB) Advanced Analysis](https://github.com/Jb-Analytics/Major-League-Baseball-analysis)
-- <b>Power BI Projects (in progress)</b>
-- <b>Python Projects (in progress)</b>
-- <b>Analytics projects (end-to-end combining different tools) (in progress)</b>
-- <b>Analytics Engineering projects (in progress)</b>
-
-*(More projects coming soon 🚧)*
+---
 
 <h2>🤝 Connect with me </h2>
 
 📧 **Email:** [contact@jbanalytics.fr](mailto:contact@jbanalytics.fr)  
-🌐 **Website:** [jbanalytics.fr](https://jbanalytics.fr)  
 💼 **LinkedIn:** [Célia Jean-Bart](https://www.linkedin.com/in/celia-jean-bart/)
 
 ⭐ *If you like my work or want to collaborate, feel free to reach out!*
