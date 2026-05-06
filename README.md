@@ -54,44 +54,17 @@ With a solid analytical foundation and an engineering mindset, I focus on delive
 - Data Visualization
 
 ---
-## 🚀 Projects & Practice
+### 🚀 Projects & Practice
 
-### 💡 Analytics Engineering & Data Modeling
-* **[dbt Fundamentals — Jaffle Shop](https://github.com/Jb-Analytics/jaffle-shop-dbt)** : Construction d'un pipeline complet (staging → analytics).
-* **[MLB Advanced Analysis](https://github.com/Jb-Analytics/Major-League-Baseball-analysis)** : Analyse de performance complexe via SQL avancé (Window Functions, CTEs).
+| <a href="https://github.com/Jb-Analytics/jaffle-shop-dbt"><img src="jaffle_shop_icon.png" width="400" alt="dbt"/></a> | <a href="https://github.com/Jb-Analytics/Major-League-Baseball-analysis"><img src="MLB_icon.png" width="400" alt="Power BI"/></a> | <a href="https://github.com/Jb-Analytics/AdventureWorks_BI"><img src="AW_icon.png" width="400" alt="Adventure Works"/></a> |
+| :---: | :---: | :---: |
+| **dbt Fundamentals — Jaffle Shop** | **MLB Advanced SQL Analysis** | **AdventureWorks BI Solution** |
+| **Description:** End-to-end transformation pipeline from raw data to analytics-ready marts.<br>**Tech:** dbt, SQL, BigQuery<br>**Strategy:** Modular SQL, Data Quality, Testing, Version Control.|**Description:** Complex performance analytics focused on athlete metrics and game outcomes.<br>**Tech:** PostgreSQL 15 (via Docker)<br>**Strategy:** Advanced SQL (Windows functions, CTE, conditional aggregations, joins Optimization).|**Description:** Enterprise-grade BI ecosystem converting raw CSVs into executive KPIs.<br>**Tech:** Power BI, DAX, Power Query<br>**Strategy:** ETL Process, Star Schema, Relational Data Modeling (1:N).| 
+| <a href="https://github.com/Jb-Analytics/Maven-Market_BI"><img src="MM_icon.png" width="400" alt="MM"/></a> | <a href="Lien_Projet_5"><img src="images/maven_card.png" width="400" alt="coffee shop"/></a> | <a href="Lien_Projet_6"><img src="images/electronics_card.png" width="400" alt="Global Electro Retailer"/></a> |
+| **Maven Market: Global Grocery** | **Coffee Shop Sales Analysis** | **Global Electronics Retailer** |
+| **Description:**  Multi-region sales tracking and customer behavior modeling.<br>**Tech:** Relational Data Modeling, Time Intelligence (DAX), Power Query<br>**Strategy:** Mo| **Description:** Revenue optimization and seasonal sales trends analysis.<br>**Tech:** Excel, Power Pivot<br>**Strategy:** Data Cleaning, Statistical Forecasting.|**Description:** Global profitability analysis and inventory stock optimization.<br>**Tech:** vvv <br>**Strategy:** Mo |
 
-### 📊 Business Intelligence (Power BI)
-* **[AdventureWorks BI](https://github.com/Jb-Analytics/AdventureWorks_BI)** : Écosystème BI de bout en bout (Raw CSV → Dashboards).
-* **[Maven Market BI](https://github.com/Jb-Analytics/Maven-Market_BI)** : Modélisation de données relationnelles et Time Intelligence.
 
-### 📈 Advanced Business Modeling (Excel Expert)
-* **[Coffee Shop Sales](https://github.com/Jb-Analytics/coffee-shop-sales-analysis)** | **[Global Electronics Retailer](https://github.com/Jb-Analytics/global-electronics-retailer-analysis)** | **[US Labor Market](https://github.com/Jb-Analytics/US-labor-analysis)**
-
----
-
-💡 **Analytics Engineering & Modern Data Stack**
-
-- [dbt Fundamentals — Jaffle Shop](https://github.com/Jb-Analytics/jaffle-shop-dbt) (In progress)  
-  Full transformation pipeline: staging raw data → analytics-ready models.  
-  **Tech:** dbt, Data Modeling, Automated Testing (Schema & Data tests), Version Control  
-
-- [Major League Baseball (MLB) Advanced Analysis](https://github.com/Jb-Analytics/Major-League-Baseball-analysis)  
-  Complex performance analytics using advanced SQL.  
-  **Tech:** Window Functions, CTEs, Joins Optimization, Statistical Analysis  
-
-<h2> </h2>
-
-💡 **Business Intelligence & Strategy**
-
-- [AdventureWorks BI: End-to-End BI Solution](https://github.com/Jb-Analytics/AdventureWorks_BI)  
-  Full BI ecosystem: raw CSVs → executive dashboards & KPIs.  
-  **Tech:** Power BI, Power Query (ETL), DAX Modeling, UI/UX Design  
-
-- [Maven Market BI: Global Grocery Analytics](https://github.com/Jb-Analytics/Maven-Market_BI)  
-  Multi-region sales tracking & customer behavior modeling.  
-  **Tech:** Relational Data Modeling, Time Intelligence (DAX)  
-
-<h2> </h2>
 
 💡 **Advanced Business Modeling (Excel Expert)**
 
