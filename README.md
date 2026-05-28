@@ -1,13 +1,17 @@
 <div align="center">
 
 # Hi there, I'm Célia 👋
-### Analytics Engineer | Data Engineer | Modern Data Stack Enthusiast
+### Data Engineer | Modern Data Stack
 
 <div align="justify">
   
-I am a passionate Analytics Engineer with over 7 years of experience in data, including a strong background as a Data Analyst. I specialize in transforming raw data into reliable, actionable insights by designing and optimizing data models and pipelines.<br>
-I work with modern data tools such as dbt, Snowflake, BigQuery, and AWS, leveraging modern data architectures to build scalable and efficient data solutions in the cloud.<br>
-With a solid analytical foundation and an engineering mindset, I focus on delivering clean, well-structured, and business-ready datasets. I am also continuously learning and improving my skills to stay aligned with the latest trends and best practices in the data ecosystem.
+I am a passionate Data Engineer with a solid background in data environments. I specialize in designing and building scalable, reliable, and high-performance data pipelines that transform complex data into production-ready data assets.
+
+My work centers on the **Modern Data Stack**, leveraging cloud platforms like **AWS** and **Snowflake**, and optimizing advanced **SQL** queries. I implement robust **dbt** projects to ensure data quality and clean modeling at every stage.
+
+With strong analytical foundations and an engineering mindset, I focus on delivering well-structured, business-ready datasets and automating processes to drive faster, data-driven decisions.
+
+I am also continuously learning and improving my skills to stay aligned with the latest trends and best practices in the data ecosystem.
 
 ---
 
