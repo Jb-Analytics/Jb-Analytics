@@ -15,7 +15,7 @@ I turn raw, messy data into tested, documented, business-ready models, with a fo
 ### 🎓 Certifications
 <p align="center">
   <a href="https://credentials.getdbt.com/6e568bf0-ef5d-4f33-a25c-198fae29ae32#acc.Ry7uosvm" target="_blank" style="margin-right:15px;">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/184672762" width="125" style="object-fit: contain; alt="dbt Developer"/></a>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/184672762" width="135" style="object-fit: contain; alt="dbt Developer"/></a>
   <a href="https://www.credly.com/badges/9792a880-2eb6-4330-8797-3ac5c1db9960/public_url" target="_blank" style="margin-right:15px;">
     <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"  width="120" style="object-fit: contain; alt="Azure Fundamentals"/></a>
   <a href="https://www.credly.com/badges/85b873f1-92fc-495c-b459-f354c5238b8f/public_url" target="_blank" style="margin-right:15px;">
