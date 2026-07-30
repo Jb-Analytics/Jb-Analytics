@@ -74,7 +74,7 @@ I turn raw, messy data into tested, documented, business-ready models, with a fo
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jb-Analytics&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jb-Analytics&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
